@@ -1,0 +1,11 @@
+package Class1;
+
+public class Task6 {
+    static int dValue(int input){
+        return input*2;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(Task6.dValue(7));
+    }
+}
